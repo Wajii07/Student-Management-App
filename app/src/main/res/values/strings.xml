@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Student Hub</string>
+    <string name="welcome">Welcome Back!</string>
+    <string name="login_subtitle">Sign in to continue to your student dashboard.</string>
+    <string name="email_hint">University email</string>
+    <string name="password_hint">Password</string>
+    <string name="login">Login</string>
+    <string name="register">Create Account</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="student_dashboard">Student Dashboard</string>
+</resources>
